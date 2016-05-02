@@ -1,3 +1,3 @@
-# Udacity iOS Developer Nanodegree
+## Udacity iOS Developer Nanodegree
 
-## P1 Pitch Perfect Project
+### P1 Pitch Perfect Project
